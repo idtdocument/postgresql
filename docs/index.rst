@@ -2,7 +2,7 @@
 ===============================================
 
 .. note::
-    本文翻譯自 `PostgreSQL Tutorial <http://www.postgresqltutorial.com/>`_ ，如有錯誤不臻之處，或有侵權之處，還望來信告知，本人信箱是yicongk@igis.com.tw。
+    本文翻譯自 `PostgreSQL Tutorial <http://www.postgresqltutorial.com/>`_ ，如有錯誤不臻之處，或有侵權之處，還望來信告知，`本人信箱 <yicongk@igis.com.tw>`_ 。
 
 .. toctree::
     :maxdepth: 2
