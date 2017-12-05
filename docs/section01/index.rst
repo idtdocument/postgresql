@@ -4,5 +4,6 @@
 .. toctree::
     :maxdepth: 2
     :caption: 目錄
-
+    :glob:
+    
     Install/*
