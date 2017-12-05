@@ -2,7 +2,7 @@
 ===============================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: 目錄
+    :maxdepth: 2
+    :caption: 目錄
 
     Install/*
