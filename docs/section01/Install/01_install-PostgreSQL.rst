@@ -1,14 +1,14 @@
 安裝PostgreSQL
 ==============
 
-.. note:: note
+.. note::
     在本節中，我們將介紹如何在本機端的系統上\ **安裝PostgreSQL**\ ，以學習和實踐PostgreSQL。
 
 PostgreSQL是為UNIX-like平台開發的，但它被設計成可以移植。這意味著PostgreSQL也可以運行在其他平台上，例如MacOS X，Solaris和Windows。
 
 自8.0版以來，PostgreSQL為Windows系統提供了一個安裝精靈，使安裝過程變得既簡單又快速。為了開發目的，我們將在Windows 10上安裝PostgreSQL 9.5版本。
 
-.. note:: note
+.. note::
     如果您正在使用Windows 8和Windows 10，則需要建立具有管理員權限
     的Windows帳號，例如postgres，並使用此帳號執行安裝程式。有關詳細
     信息，請參閱下面的故障排除部分。
